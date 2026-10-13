@@ -1,3 +1,5 @@
+<p align="center"><img src="card.svg" alt="Fan Du — Data & Financial Analyst" width="640"></p>
+
 # Fan Du
 
 ### Data & Financial Analyst — Incoming M.S. in Applied Data Science, University of Chicago | B.S. Data Science & Finance, Northeastern University
